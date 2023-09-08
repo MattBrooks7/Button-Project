@@ -1,0 +1,22 @@
+button {
+        color: black;
+        border-radius: 32px;
+        height: 60px; /* Increase the height for bigger buttons */
+        min-width: 150px; /* Set a minimum width for the buttons */
+        font-size: 18px; /* Increase the font size for bigger buttons */
+        border: solid 1px black;
+        cursor: pointer;
+        margin: 10px; /* Optional: Add margin for spacing between buttons */
+}
+
+#green {
+    background-color: green;
+}
+
+#red {
+    background-color: red;
+}
+
+#blue {
+    background-color: blue;
+}
